@@ -5,7 +5,6 @@ This repository contains code the paper titled [OS-FPI: A Coarse-to-Fine One-Str
 
 
 ## News
-- **`2024/12/22`**: Strongly recommend DRL's article and its [repository](https://github.com/Dmmm1997/DRL)
 - **`2024/12/22`**: Our code are released.(Due to the author's extreme laziness, this is a very rough version)
 
 
