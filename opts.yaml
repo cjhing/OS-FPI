@@ -1,0 +1,42 @@
+NEK_W: 1.5
+Satellitehw:
+- 384
+- 384
+UAVhw:
+- 96
+- 96
+USE_old_model: true
+adamw_cos: 5.0e-06
+autocast: true
+backbone: os_pcpvt_small
+batchsize: 16
+centerR: 33
+cover_rate: 0.85
+cut_circle: 1500
+data_dir: /media/zeh/4d723c17-52ed-4771-9ff5-c5b4cf1675e9/cjh/SiamUAV_date
+gpu_ids: '0'
+loc_label: '400'
+loc_loss: smooth_l1_loss
+loc_weight: 1.0
+log_iter: 50
+lr: 0.0003
+name: freeze_model_40_00003
+neck: X_FPN_ASPP_conv_12_24_32_HEAD_Z0_xy
+neg_weight: 15.0
+num_epochs: 40
+num_worker: 6
+padding: 0
+pos_label: 33
+pos_num: 300
+save_ckpt: 1
+save_epochs: 2
+share: 0
+start_save: 20
+start_test: 30
+steps:
+- 6
+- 8
+- 12
+- 18
+use_gpu: true
+warm_epoch: 0
