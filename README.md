@@ -39,7 +39,7 @@ You can use the following script for training while obtaining test results. Reme
 bash train_test_local.sh
 ```
 
-### Evaluation
+### Testing
 
 The following code is used to test the performance of the model.
 
@@ -47,10 +47,25 @@ The following code is used to test the performance of the model.
  tool/model_test_server.py
 ```
 
+## Pretrained model
+The relevant model weights have already been uploaded to this repository.
+
+```
+ net_040.pth
+```
+
+### Visualization
+
+You can use the following code to visualize the results.
+
+```
+ tool/demo_visualization.py
+ tool/demo_visualization_xy.py
+```
+
 ## Citation
 
-The following paper uses and reports the result of the baseline model. You may cite it in your paper.
-
+Please consider citing our papers in your publications if the project helps your research. BibTeX reference is as follows.
 ```bibtex
 @article{drl,
   title={OS-FPI: A Coarse-to-Fine One-Stream Network for UAV Geo-Localization},
@@ -58,6 +73,17 @@ The following paper uses and reports the result of the baseline model. You may c
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
   year={2024},
   publisher={IEEE}
+}
+
+@article{drl,
+  title={Wamf-fpi: A weight-adaptive multi-feature fusion network for uav localization},
+  author={Wang, Guirong and Chen, Jiahao and Dai, Ming and Zheng, Enhui},
+  journal={Remote Sensing},
+  volume={15},
+  number={4},
+  pages={910},
+  year={2023},
+  publisher={MDPI}
 }
 ```
 
