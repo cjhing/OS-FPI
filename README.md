@@ -28,7 +28,7 @@ Create the directory for saving the training log and ckpts.
 mkdir checkpoints
 ```
 
-## Dataset & Preparation
+## Dataset
 
 You can obtain the dataset from this [repository](https://github.com/Dmmm1997/DRL).
 
