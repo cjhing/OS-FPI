@@ -1,6 +1,6 @@
 <h1 align="center"> OS-FPI: A Coarse-to-Fine One-Stream Network for UAV Geo-Localization and Navigation </h1>
 
-This repository contains code the paper titled [OS-FPI: A Coarse-to-Fine One-Stream Network for UAV Geo-Localization and Navigation](https://ieeexplore.ieee.org/document/10478125).
+This repository contains code for the paper titled [OS-FPI: A Coarse-to-Fine One-Stream Network for UAV Geo-Localization and Navigation](https://ieeexplore.ieee.org/document/10478125).
 
 ![](img/OS_FPI_backbone_v1.drawio.png)
 
