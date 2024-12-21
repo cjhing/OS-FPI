@@ -1,6 +1,6 @@
 <h1 align="center"> OS-FPI: A Coarse-to-Fine One-Stream Network for UAV Geo-Localization and Navigation </h1>
 
-This repository contains code the paper titled [OS-FPI: A Coarse-to-Fine One-Stream Network for UAV Geo-Localization and Navigation](https://arxiv.org/pdf/2208.06561).
+This repository contains code the paper titled [OS-FPI: A Coarse-to-Fine One-Stream Network for UAV Geo-Localization and Navigation](https://ieeexplore.ieee.org/document/10478125).
 
 
 
@@ -18,8 +18,6 @@ This repository contains code the paper titled [OS-FPI: A Coarse-to-Fine One-Str
 - Torchvision 0.15.0+cu118
 
 ## Installation
-
-It is best to use cuda version 11.8 and pytorch version 2.0.0. You can download the corresponding version from this [website](https://download.pytorch.org/whl/torch_stable.html) and install it through `pip install`. Then you can execute the following command to install all dependencies.
 
 ```
 pip install -r requirments.txt
