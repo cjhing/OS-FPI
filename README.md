@@ -33,6 +33,7 @@ mkdir checkpoints
 You can obtain the dataset from this [repository](https://github.com/Dmmm1997/DRL).
 
 ## Train
+You can use the following script for training while obtaining test results. Remember to change the config and dataset addresses before use.
 
 ```
 bash train_test_local.sh
