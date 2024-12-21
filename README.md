@@ -32,11 +32,7 @@ mkdir checkpoints
 
 You can obtain the dataset from this [repository](https://github.com/Dmmm1997/DRL).
 
-## Train & Evaluation
-
-### Training and Testing
-
-You could execute the following command to implement the entire process of training and testing.
+## Train
 
 ```
 bash train_test_local.sh
