@@ -59,7 +59,7 @@ class SiamUAV_Transformer_Model(nn.Module):
         if opt.backbone == "Swin-Transformer-S":
             pretrain = "pretrain_model/swin_small_patch4_window7_224.pth"
         if opt.backbone == "os_pcpvt_small":
-            pretrain = r"D:\OS-PFI\net_040.pth"
+            pretrain = r"pretrain_model/os_pcpvt_small"
 
         # if not opt.share:
         #     self.model_satellite.transformer.load_param(pretrain)
@@ -106,7 +106,6 @@ class SiamUAV_Transformer_Model(nn.Module):
     #         state_dict = torch.load(pretrained)
     #         state_dict2 = {k: v for k, v in state_dict.items() if (k in model_dict)}
     #         self.model_uav.transformer.load_state_dict(state_dict2, strict=False)
-    #         # 载入预训练模型参数后...
     #         for name, value in self.model_uav.transformer.named_parameters():
     #             if name in state_dict:
     #                 value.requires_grad = False
