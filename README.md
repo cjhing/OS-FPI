@@ -5,7 +5,7 @@ This repository contains code the paper titled [OS-FPI: A Coarse-to-Fine One-Str
 
 
 ## News
-
+- **`2024/12/22`**: Strongly recommend DRL's article and its [repository](https://github.com/Dmmm1997/DRL)
 - **`2024/12/22`**: Our code are released.(Due to the author's extreme laziness, this is a very rough version)
 
 
@@ -66,6 +66,7 @@ The following paper uses and reports the result of the baseline model. You may c
 ```
 
 ## Related Work
+- WAMF-FPI [https://github.com/Dmmm1997/WAMF-FPI](https://www.mdpi.com/2072-4292/15/4/910)
 - DRL [https://github.com/Dmmm1997/DRL](https://github.com/Dmmm1997/DRL)
 - DenseUAV [https://github.com/Dmmm1997/DenseUAV](https://github.com/Dmmm1997/DenseUAV)
 - FSRA [https://github.com/Dmmm1997/FSRA](https://github.com/Dmmm1997/FSRA)
