@@ -2,7 +2,7 @@
 
 This repository contains code the paper titled [OS-FPI: A Coarse-to-Fine One-Stream Network for UAV Geo-Localization and Navigation](https://ieeexplore.ieee.org/document/10478125).
 
-
+![](img/OS_FPI_backbone_v1.drawio.png)
 
 ## News
 - **`2024/12/22`**: Strongly recommend DRL's article and its [repository](https://github.com/Dmmm1997/DRL)
