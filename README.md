@@ -68,7 +68,7 @@ You can use the following code to visualize the results.
 
 Please consider citing our papers in your publications if the project helps your research. BibTeX reference is as follows.
 ```bibtex
-@article{drl,
+@article{OS-FPI,
   title={OS-FPI: A Coarse-to-Fine One-Stream Network for UAV Geo-Localization},
   author={Chen, Jiahao and Zheng, Enhui and Dai, Ming and Chen, Yifu and Lu, Yusheng},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
@@ -76,7 +76,7 @@ Please consider citing our papers in your publications if the project helps your
   publisher={IEEE}
 }
 
-@article{drl,
+@article{wamf-fpi,
   title={Wamf-fpi: A weight-adaptive multi-feature fusion network for uav localization},
   author={Wang, Guirong and Chen, Jiahao and Dai, Ming and Zheng, Enhui},
   journal={Remote Sensing},
@@ -86,6 +86,26 @@ Please consider citing our papers in your publications if the project helps your
   year={2023},
   publisher={MDPI}
 }
+
+@misc{drl,
+      title={Drone Referring Localization: An Efficient Heterogeneous Spatial Feature Interaction Method For UAV Self-Localization}, 
+      author={Ming Dai and Enhui Zheng and Zhenhua Feng and Jiahao Chen and Wankou Yang},
+      year={2024},
+      eprint={2208.06561},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2208.06561}, 
+}
+
+@ARTICLE{DenseUAV,
+  author={Dai, Ming and Zheng, Enhui and Feng, Zhenhua and Qi, Lei and Zhuang, Jiedong and Yang, Wankou},
+  journal={IEEE Transactions on Image Processing},
+  title={Vision-Based UAV Self-Positioning in Low-Altitude Urban Environments},
+  year={2024},
+  volume={33},
+  number={},
+  pages={493-508},
+  doi={10.1109/TIP.2023.3346279}}
 ```
 
 ## Related Work
