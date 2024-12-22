@@ -5,6 +5,7 @@ This repository contains code for the paper titled [OS-FPI: A Coarse-to-Fine One
 ![](img/OS_FPI_backbone_v1.drawio.png)
 
 ## News
+- **`2024/12/22`**: Strongly recommend DRL's article and its [repository](https://github.com/Dmmm1997/DRL)
 - **`2024/12/22`**: Our code are released.(Due to the author's extreme laziness, this is a very rough version)
 
 
