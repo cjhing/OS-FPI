@@ -68,7 +68,7 @@ You can use the following code to visualize the results.
 
 Please consider citing our papers in your publications if the project helps your research. BibTeX reference is as follows.
 ```bibtex
-@article{OS-FPI,
+@ARTICLE{OS-FPI,
   title={OS-FPI: A Coarse-to-Fine One-Stream Network for UAV Geo-Localization},
   author={Chen, Jiahao and Zheng, Enhui and Dai, Ming and Chen, Yifu and Lu, Yusheng},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
@@ -76,7 +76,7 @@ Please consider citing our papers in your publications if the project helps your
   publisher={IEEE}
 }
 
-@article{wamf-fpi,
+@ARTICLE{wamf-fpi,
   title={Wamf-fpi: A weight-adaptive multi-feature fusion network for uav localization},
   author={Wang, Guirong and Chen, Jiahao and Dai, Ming and Zheng, Enhui},
   journal={Remote Sensing},
